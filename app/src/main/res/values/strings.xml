@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pr6</string>
+    <string name="btnfon">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <Color name="redColor">#FF0000</Color>
+    <Color name="yellwoColor">#FFFF00</Color>
+    <Color name="greenColor">#00FF00</Color>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+</resources>
+
